@@ -45,8 +45,8 @@
   "navbar": {
     "primary": {
       "type": "button",
-      "label": "Get Started",
-      "href": "https://deepspace.app"
+      "label": "Discover more",
+      "href": "https://deep.space"
     }
   },
   "footer": {
