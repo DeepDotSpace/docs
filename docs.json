@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "DeepSpace",
   "colors": {
-    "primary": "#1E40AF",
+    "primary": "#3B82F6",
     "light": "#2563EB",
-    "dark": "#E2E8F0"
+    "dark": "#93C5FD"
   },
   "favicon": "/favicon.svg",
   "navigation": {
