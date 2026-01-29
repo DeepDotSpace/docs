@@ -44,7 +44,7 @@
   },
   "navbar": {
     "primary": {
-      "type": "button",
+      "type": "link",
       "label": "Discover more",
       "href": "https://deep.space"
     }
