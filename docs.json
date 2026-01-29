@@ -43,11 +43,12 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {
-    "primary": {
-      "type": "link",
-      "label": "Discover more",
-      "href": "https://deep.space"
-    }
+    "links": [
+      {
+        "label": "Discover more",
+        "href": "https://deep.space"
+      }
+    ]
   },
   "footer": {
     "socials": {
