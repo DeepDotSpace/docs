@@ -16,13 +16,24 @@
           {
             "group": "Getting Started",
             "pages": [
-              "index",
-              "getting-started/pod-library",
-              "getting-started/building-pods",
-              "getting-started/agent-tips",
+              "getting-started/overview",
+              "getting-started/library",
+              "getting-started/building-widgets",
+              "getting-started/ai-tips",
               "getting-started/integrations",
               "getting-started/sharing",
               "getting-started/whats-next"
+            ]
+          },
+          {
+            "group": "Developers",
+            "pages": [
+              "developers/overview",
+              "developers/local-development",
+              "developers/storage",
+              "developers/hooks",
+              "developers/integrations-api",
+              "developers/theming"
             ]
           }
         ]

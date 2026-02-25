@@ -1,55 +1,76 @@
 ---
 title: "Sharing & Collaboration"
-description: "Publish pods to the library and collaborate with others in real-time"
+description: "Share spaces, publish to the library, collaborate in real-time, and deploy as websites"
 ---
 
-DeepSpace is built for sharing. Pods you build can be published for others to use, and you can collaborate with others in real-time.
+DeepSpace gives you several ways to share what you build — from quick link sharing to publishing for the whole community to deploying standalone websites.
 
-## Publishing to the Library
+## Share Your Space
 
-When you've built something useful, publish it to the Pod Library:
+Every space has a **Share** button in the top panel. You control who can access it:
 
-1. Open your pod's settings
-2. Click **Publish to Library**
-3. Add a title, description, and select a category
-4. Submit for review
+- **Private** — Only you can see and edit the space. This is the default.
+- **Public** — Anyone with the link can view your space. You can choose whether they can also edit, or view only.
+- **Collaborative** — Invite specific people by email. Only invited collaborators can access the space.
 
-Once approved, your pod appears in the library for anyone to discover and use.
+### Real-Time Collaboration
 
-## What Gets Shared
+When you share a space with others, collaboration happens live:
 
-When you publish a pod:
+- **Presence** — See who's online and what they're working on
+- **Instant sync** — Changes appear immediately across all participants
+- **View-only option** — Let people see your space without being able to modify it
 
-- **Code and UI** - The pod's functionality and interface
-- **Default configuration** - Initial settings and layout
-- **Integration connections** - Which services the pod uses
+Multiple people can interact with the same widgets at the same time — this isn't just document editing, it's building and using live apps together.
 
-What stays private:
+## Publish to the Library
 
-- **Your data** - The data in your instance of the pod
-- **Personal settings** - Your customizations and preferences
+You can publish both widgets and spaces to the Library for the community to discover and use.
 
-## Attribution
+### Publishing a Widget
 
-When someone edits your pod to create their own version, the original creator is credited. Each modified version can go in its own direction while maintaining connection to its origins.
+1. Open the widget's menu
+2. Select **Publish to Library**
+3. Add a name, description, icon, and category
+4. Choose whether it's **Public** (visible to everyone) or **Private** (only you can see it)
+5. Publish
 
-## Collaborating in Real-Time
+If you've published a widget before and want to push updates, the system recognizes the existing handle and lets you publish a new version.
 
-Share your desktop with others for live collaboration. Think Google Docs, but for entire app workspaces.
+### Publishing a Space
 
-- **Share a link** - Invite collaborators by link or email
-- **See presence** - See who's online and what they're working on
-- **Edit together** - Changes sync instantly across all participants
-- **View-only option** - Let others see your dashboard without editing
+1. Open the **Share** dropdown → **Publish** tab, or go to the Library's **Spaces** tab
+2. Select **Publish Current Space to Library**
+3. Add a name, optional preview image, and choose visibility
+4. Publish
 
-Unlike traditional document collaboration, you're not just editing text—you're building and using live applications together. Multiple people can interact with the same pods simultaneously, see each other's changes in real-time, and build on each other's work.
+Published spaces include the layout, widgets, and configuration so others can import a complete workspace setup.
 
-## Single Account, Everywhere
+### What Gets Shared (and What Doesn't)
 
-Your DeepSpace account works across:
+When you publish, the widget or space's functionality, interface, and default configuration are shared. Your personal data stays private — only you can see it.
 
-- Web browser
-- Mobile app (iOS and Android)
-- Desktop app
+## Deploy as a Website
 
-Pods sync automatically. Build on your laptop, check from your phone.
+Any widget can be deployed as a standalone website that works completely outside of DeepSpace.
+
+1. Open the widget's menu
+2. Select **Deploy as Website**
+3. Choose a URL handle (your site will live at `yourname.app.space`)
+4. Deploy
+
+The deployed site gets its own URL, its own storage, and full authentication. Anyone can visit it, sign in, and use it like a regular web app.
+
+<Note>
+**Deployed sites have separate storage.** Data from the canvas version doesn't carry over to the deployed site. They're independent — the canvas version and the website version each have their own data.
+</Note>
+
+## One Account, Every Device
+
+Your DeepSpace account works everywhere:
+
+- **Web browser**
+- **Mobile app** (iOS and Android)
+- **Tablet app**
+
+Everything syncs automatically. Build on your laptop, check from your phone, present from your tablet.
