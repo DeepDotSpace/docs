@@ -1,37 +1,4 @@
-<svg width="140" height="24" viewBox="0 0 140 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <linearGradient id="paint0_linear" x1="369.679" y1="1488.74" x2="1823.76" y2="1488.74" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#E28700"/>
-    <stop offset="0.331731" stop-color="#F645E6"/>
-    <stop offset="0.9375" stop-color="#1B37F7"/>
-  </linearGradient>
-  <linearGradient id="paint1_linear" x1="2550.8" y1="1488.75" x2="1096.72" y2="1488.75" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#E28700"/>
-    <stop offset="0.331731" stop-color="#F645E6"/>
-    <stop offset="0.9375" stop-color="#1B37F7"/>
-  </linearGradient>
-  <linearGradient id="star_gradient" x1="1467" y1="0" x2="1467" y2="2934" gradientUnits="userSpaceOnUse">
-    <stop offset="0" stop-color="#E0F2FE"/>
-    <stop offset="0.2" stop-color="#7DD3FC"/>
-    <stop offset="0.4" stop-color="#38BDF8"/>
-    <stop offset="0.6" stop-color="#818CF8"/>
-    <stop offset="0.8" stop-color="#A78BFA"/>
-    <stop offset="1" stop-color="#C4B5FD"/>
-  </linearGradient>
-  <clipPath id="star_clip">
-    <circle cx="1467" cy="1467" r="220"/>
-    <path d="M1382.33 1020.73C1363.01 1244.23 1352.46 1334.16 1294.06 1334.55H1639.9C1581.5 1334.16 1568.68 1244.23 1549.35 1020.73L1466.38 10.2266L1382.33 1020.73Z"/>
-    <path d="M1382.33 1020.73C1363.01 1244.23 1352.46 1334.16 1294.06 1334.55H1639.9C1581.5 1334.16 1568.68 1244.23 1549.35 1020.73L1466.38 10.2266L1382.33 1020.73Z" transform="translate(2003.93 -536.951) rotate(60)"/>
-    <path d="M1382.33 1020.73C1363.01 1244.23 1352.46 1334.16 1294.06 1334.55H1639.9C1581.5 1334.16 1568.68 1244.23 1549.35 1020.73L1466.38 10.2266L1382.33 1020.73Z" transform="translate(3470.91 930.027) rotate(120)"/>
-    <path d="M1382.33 1020.73C1363.01 1244.23 1352.46 1334.16 1294.06 1334.55H1639.9C1581.5 1334.16 1568.68 1244.23 1549.35 1020.73L1466.38 10.2266L1382.33 1020.73Z" transform="translate(2933.96 2933.96) rotate(-180)"/>
-    <path d="M1382.33 1020.73C1363.01 1244.23 1352.46 1334.16 1294.06 1334.55H1639.9C1581.5 1334.16 1568.68 1244.23 1549.35 1020.73L1466.38 10.2266L1382.33 1020.73Z" transform="translate(930.027 3470.91) rotate(-120)"/>
-    <path d="M1382.33 1020.73C1363.01 1244.23 1352.46 1334.16 1294.06 1334.55H1639.9C1581.5 1334.16 1568.68 1244.23 1549.35 1020.73L1466.38 10.2266L1382.33 1020.73Z" transform="translate(-536.951 2003.93) rotate(-60)"/>
-  </clipPath>
-</defs>
-<g transform="translate(0, 0) scale(0.00818)">
-  <path d="M369.679 1488.74L1460.24 1545.38L1460.24 1432.09L369.679 1488.74Z" fill="url(#paint0_linear)"/>
-  <path d="M2550.8 1488.75L1460.24 1432.11L1460.24 1545.39L2550.8 1488.75Z" fill="url(#paint1_linear)"/>
-  <rect x="0" y="0" width="2934" height="2934" fill="url(#star_gradient)" clip-path="url(#star_clip)"/>
-</g>
-<text x="32" y="17" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#18181B">DeepSpace</text>
+<svg width="140" height="24" viewBox="0 0 140 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<image href="data:image/png;base64,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" x="0" y="0" width="24" height="24"/>
+<text x="30" y="17" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#18181B">DeepSpace</text>
 </svg>
