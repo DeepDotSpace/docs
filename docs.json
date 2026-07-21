@@ -57,10 +57,7 @@
       },
       {
         "group": "Going to production",
-        "pages": [
-          "guides/custom-domains",
-          "guides/testing"
-        ]
+        "pages": ["guides/custom-domains", "guides/testing"]
       },
       {
         "group": "SDK reference",
@@ -97,10 +94,7 @@
       },
       {
         "group": "CLI reference",
-        "pages": [
-          "cli-reference/overview",
-          "cli-reference/commands"
-        ]
+        "pages": ["cli-reference/overview", "cli-reference/commands"]
       }
     ],
     "global": {}
@@ -134,6 +128,11 @@
     "socials": {
       "discord": "https://discord.gg/hcKSav5PpU",
       "github": "https://github.com/deepdotspace"
+    }
+  },
+  "seo": {
+    "metatags": {
+      "msvalidate.01": "968118FDADA4C2135E6166F60517478A"
     }
   }
 }
